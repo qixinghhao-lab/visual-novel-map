@@ -1,4 +1,6 @@
-# 可视化小说规划工具
+# 可视化 AI 小说写作工具
+
+> Visual AI Novel Writing Tool
 
 ![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6?logo=typescript&logoColor=fff)
