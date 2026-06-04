@@ -318,6 +318,12 @@ docs/
 
 如果你刚好有灵光一现的想法，欢迎直接拿去完善、改造、优化。这个项目本身也很适合一点点长出来。
 
+## 参与贡献
+
+欢迎从 [ROADMAP.md](ROADMAP.md) 里挑一个方向，也可以先读 [CONTRIBUTING.md](CONTRIBUTING.md) 看看贡献方式。
+
+如果只是突然想到一个功能点，也可以直接开 issue。尤其欢迎和故事线、章节节点、逻辑点、情绪曲线、AI 衔接正文有关的想法。
+
 ## 开源协议
 
 本项目使用 MIT License，详见 [LICENSE](LICENSE)。

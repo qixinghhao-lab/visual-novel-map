@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 路线图
+    url: https://github.com/qixinghhao-lab/visual-novel-map/blob/main/ROADMAP.md
+    about: 先看看项目当前准备往哪里走。
